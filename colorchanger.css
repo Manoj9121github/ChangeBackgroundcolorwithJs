@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    
+}
+.one{
+    background-color: aqua;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.two{
+
+    background-color: green;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+
+.three{
+    background-color: yellow;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.four{
+    background-color: red;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
